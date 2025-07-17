@@ -46,7 +46,7 @@ TermDeposit/
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/term-deposit-prediction.git
+   git clone https://github.com/beyzaasan/term-deposit-prediction
    cd term-deposit-prediction/TermDeposit
    ```
 2. **Install dependencies:**
@@ -194,14 +194,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Scikit-learn](https://scikit-learn.org/) for machine learning algorithms
 - [Streamlit](https://streamlit.io/) for the web application framework
 - [Pandas](https://pandas.pydata.org/) and [NumPy](https://numpy.org/) for data manipulation
-
-## 📞 Contact
-
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [@yourusername]
-
----
 
 ⭐ If you find this project helpful, please give it a star! 
